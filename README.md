@@ -1,10 +1,9 @@
-# Priyanka
 <h1 align="center">Hi 👋, I'm Deshaboina Priyanka</h1>
 <h3 align="center">A passionate frontend developer from India</h3> <br>
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, JS, React**
+- 💬 Ask me about **HTML, CSS, JS, React, Java, SQL**
 
 - 📫 How to reach me **priyankadeshaboina503@gmail.com**
 
