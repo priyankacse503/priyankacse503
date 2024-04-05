@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN STACK developer from India</h3> <br>
 
 
-- 💬 Ask me about **HTML, CSS, JS, React, Java, SQL, MongoDB, Mongoose, MYSQL**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACTJS, JAVA, SQL, MONGODB, MONGOOSE, MYSQL, NODEJS, REDUX, MATERIAL UI**
 
 - 📫 How to reach me **priyankadeshaboina503@gmail.com**
 
