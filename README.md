@@ -4,7 +4,7 @@
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACTJS, JAVA, SQL, MONGODB, MONGOOSE, MYSQL, NODEJS, REDUX, MATERIAL UI**
 
-- 📫 How to reach me **priyankadeshaboina503@gmail.com**
+- 📫 How to reach me **priyankacp503@gmail.com**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
